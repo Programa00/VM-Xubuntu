@@ -4,7 +4,7 @@ Programa de estudos para iniciar mulheres na programação.
 
 Iniciativa das alunas do Eixo de Computação da Universidade Virtual do Estado de São Paulo - UNIVESP
 
-### VM Linux
+## VM Linux
 
 Para nossos estudos usaremos uma máquina Linux.
 
@@ -26,11 +26,16 @@ Faça o download da VirtualBox no link abaixo:
 
 [VirtualBox 6.1.6 para Macintosh - Apple](https://download.virtualbox.org/virtualbox/6.1.6/VirtualBox-6.1.6-137129-OSX.dmg)
 
+
 ## Instalação do Linux dentro da VM
 
 Faça o download da imagem da máquina abaixo:
 
 [Xubuntu para máquina virtual](https://transferxl.com/06jXygR991BS6c)
+
+Essa imagem serve tanto para uso na VirtualBox, como na VMWare e no VirtualPC.
+
+Nesse tutorial, usaremos o VirtualBox.
 
 ### Instalação usando o VirtualBox
 
