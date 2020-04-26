@@ -1,16 +1,19 @@
 ## Programa00
 
 Programa de estudos para iniciar mulheres na programação.
+
 Iniciativa das alunas do Eixo de Computação da Universidade Virtual do Estado de São Paulo - UNIVESP
 
 ### VM Linux
 
 Para nossos estudos usaremos uma máquina Linux.
+
 Para isso, escolhemos o uso de máquina virtual, e Linux Xubuntu, por ser leve e ao mesmo tempo amigável
 com usuários vindos do Windows.
 
 `
 VM escolhida: Oracle VirtualBox 6.1
+
 Linux escolhido: Xubuntu LTS 20.4 `
 
 
@@ -30,10 +33,19 @@ Faça o download da imagem da máquina abaixo:
 
 ### Instalação usando o VirtualBox
 
-Dentro do VirtualBox clique em Importar
+Dentro do VirtualBox clique em IMPORTAR
+![01 - Importando](https://github.com/Programa00/VM-Xubuntu/blob/master/01-importar.png)
+
 Selecione o .ova que você acabou de baixar
-Clique em Next e depois em Importar
+![02 - selecionando](https://github.com/Programa00/VM-Xubuntu/blob/master/02-selecionar-ova.png)
+![03 - selecionando](https://github.com/Programa00/VM-Xubuntu/blob/master/03-selecionar-ova.png)
+
+Clique em CONTINUAR e depois em IMPORTAR
+![04 - continuar](https://github.com/Programa00/VM-Xubuntu/blob/master/04-clique-continuar.png)
+![05 - importar](https://github.com/Programa00/VM-Xubuntu/blob/master/05-clique-importar.png)
+
 Inicie a VM clicando na seta VERDE
+![06 - iniciar a VM](https://github.com/Programa00/VM-Xubuntu/blob/master/06-inicie-a-VM.png)
 
 Usuário: Programa00
 Senha: 1234
