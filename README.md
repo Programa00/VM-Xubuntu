@@ -1,19 +1,44 @@
-## Welcome to GitHub Pages
+## Programa00
 
-You can use the [editor on GitHub](https://github.com/Programa00/VM-Xubuntu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Programa de estudos para iniciar mulheres na programação.
+Iniciativa das alunas do Eixo de Computação da Universidade Virtual do Estado de São Paulo - UNIVESP
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### VM Linux
 
-### Markdown
+Para nossos estudos usaremos uma máquina Linux.
+Para isso, escolhemos o uso de máquina virtual, e Linux Xubuntu, por ser leve e ao mesmo tempo amigável
+com usuários vindos do Windows.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`
+VM escolhida: Oracle VirtualBox 6.1
+Linux escolhido: Xubuntu LTS 20.4 `
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Instalação da VM
+
+Faça o download da VirtualBox no link abaixo:
+[https://download.virtualbox.org/virtualbox/6.1.6/VirtualBox-6.1.6-137129-Win.exe](VirtualBox 6.1.6 para Windows)
+[https://download.virtualbox.org/virtualbox/6.1.6/VirtualBox-6.1.6-137129-OSX.dmg](VirtualBox 6.1.6 para Macintosh - Apple)
+
+## Instalação do Linux dentro da VM
+
+Faça o download da imagem da máquina abaixo:
+[https://transferxl.com/06jXygR991BS6c](Xubuntu para máquina virtual)
+
+### Instalação usando o VirtualBox
+
+Dentro do VirtualBox clique em Importar
+Selecione o .ova que você acabou de baixar
+Clique em Next e depois em Importar
+Inicie a VM clicando na seta VERDE
+
+Usuário: Programa00
+Senha: 1234
+
+Instalação concluída!
+
+### Tive um erro, e agora?
+
 
 - Bulleted
 - List
