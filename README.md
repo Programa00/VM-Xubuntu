@@ -19,6 +19,7 @@ Linux escolhido: Xubuntu LTS 20.4 `
 Faça o download da VirtualBox no link abaixo:
 
 [VirtualBox 6.1.6 para Windows](https://download.virtualbox.org/virtualbox/6.1.6/VirtualBox-6.1.6-137129-Win.exe)
+
 [VirtualBox 6.1.6 para Macintosh - Apple](https://download.virtualbox.org/virtualbox/6.1.6/VirtualBox-6.1.6-137129-OSX.dmg)
 
 ## Instalação do Linux dentro da VM
