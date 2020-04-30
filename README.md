@@ -31,7 +31,7 @@ Faça o download da VirtualBox no link abaixo:
 
 Faça o download da imagem da máquina abaixo:
 
-[Xubuntu para máquina virtual](https://transferxl.com/06jXygR991BS6c)
+[Xubuntu para máquina virtual](https://drive.google.com/open?id=18aapXiRuXrUfyP8FIMMRManJxvOO5J1l)
 
 Essa imagem serve tanto para uso na VirtualBox, como na VMWare e no VirtualPC.
 
